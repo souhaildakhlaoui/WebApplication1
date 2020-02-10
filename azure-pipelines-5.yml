@@ -10,7 +10,7 @@ pool:
   vmImage: 'windows-latest'
 
 variables:
-  solution: 'WebApplication1.sln'
+  solution: 'souhaildakhlaoui/WebApplication1.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Debug'
 
